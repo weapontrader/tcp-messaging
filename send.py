@@ -25,7 +25,7 @@ while True:
       message = input()
       c.send(host + message.encode('utf-8'))
       file = open("temp.txt", "w")
-      file.write(host + ": " + message)
+      file.write("SEN: " + message)
       file.close()
 
    c.close()

@@ -7,9 +7,7 @@
 ##### ÇALIŞTIRMA:
 
 - `main.py`'i açın ve hedef IP adresini girin.
-
 - `send.py`'i açın.
-
 - `recv.py`'i açın.
 
 ##### DOSYALARIN AÇIKLAMASI:

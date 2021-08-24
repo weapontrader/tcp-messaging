@@ -1,10 +1,12 @@
-AÇIKLAMA
+# TCP-MESSAGING
+
+### AÇIKLAMA
 
 - Sadece IP adresi ile bilgisayarlar arası mesajlaşma.
 
 
 
-ÇALIŞTIRMA:
+### ÇALIŞTIRMA:
 
 - main.py'i açın ve hedef IP adresini girin.
 
@@ -14,7 +16,7 @@ AÇIKLAMA
 
 
 
-DOSYALARIN AÇIKLAMASI:
+### DOSYALARIN AÇIKLAMASI:
 
 - main.py: İşlem için gerekli bazı ayarlamaları yapar.
 - send.py: Mesaj atılacağı zaman buraya girilir.
@@ -22,6 +24,6 @@ DOSYALARIN AÇIKLAMASI:
 
 
 
-SON OLARAK:
+### SON OLARAK:
 
 - Proje açık kaynaktır istediğiniz gibi kopyalayabilir ve/veya geliştirebilirsiniz.

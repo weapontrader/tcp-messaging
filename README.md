@@ -1,7 +1,3 @@
-TCP-MESSAGING
-
-
-
 AÇIKLAMA
 
 - Sadece IP adresi ile bilgisayarlar arası mesajlaşma.

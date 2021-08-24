@@ -22,6 +22,10 @@ while True:
    print('     Bağlandı: ', addr)
 
    while True:
-      c.send(host + input().encode('utf-8')) 
+      message = input()
+      c.send(host + message.encode('utf-8'))
+      file = open("temp.txt", "w")
+      file.write(message)
+      file.close()
 
    c.close()

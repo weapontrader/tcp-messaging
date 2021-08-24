@@ -4,7 +4,7 @@ TRADER-MESSAGING
 
 AÇIKLAMA
 
-Sadece IP adresi ile bilgisayardan bilgisayara veri gönderme.
+- Sadece IP adresi ile bilgisayardan bilgisayara veri gönderme.
 
 
 
@@ -28,4 +28,4 @@ DOSYALARIN AÇIKLAMASI:
 
 SON OLARAK:
 
-Proje açık kaynaktır istediğiniz gibi kopyalayabilir ve/veya geliştirebilirsiniz.
+- Proje açık kaynaktır istediğiniz gibi kopyalayabilir ve/veya geliştirebilirsiniz.

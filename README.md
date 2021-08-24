@@ -4,7 +4,7 @@ TRADER-MESSAGING
 
 AÇIKLAMA
 
-- Sadece IP adresi ile bilgisayardan bilgisayara veri gönderme.
+- Sadece IP adresi ile bilgisayarlar arası mesajlaşma.
 
 
 

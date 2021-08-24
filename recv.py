@@ -13,7 +13,9 @@ try:
        yanit = s.recv(1024)
        print("     " + yanit.decode("utf-8"))
        time.sleep(1000)
-
+       file = open("message.txt", "w+")
+       print("     " + file.read())
+    
     s.close()
 
 except socket.error as msg:
